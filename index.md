@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Tarea 1
+- [x] Tarea 2
+- [ ] Tarea 3
