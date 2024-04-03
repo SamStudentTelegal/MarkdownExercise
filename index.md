@@ -1,1 +1,2 @@
-# Esto es un `<h1>` encabezado, el más largo
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
